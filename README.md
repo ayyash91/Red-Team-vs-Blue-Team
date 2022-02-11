@@ -5,7 +5,7 @@
  
  * The Red Team Role: discover vulnerability and exploit them.
  
- * Blue Team Role: detect the attack, set alarms,system hardening,mitigation to block/detect future attacks.  
+ * Blue Team Role: detect the attack, set alarms,system hardening and mitigation to block/detect future attacks.  
  
  
 ## <strong>Tools Used in The Project </strong>: 
