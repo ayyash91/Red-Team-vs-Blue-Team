@@ -14,6 +14,9 @@ Kali Linux | Nmap | Dirb | Hydra | Password Cracking | msfvenom |  Metasploit | 
 
 
 ## <strong>Network Topology <strong>:
+ 
+  ![network](https://user-images.githubusercontent.com/69011745/153680233-63182a0b-66ad-41d3-94fe-685e023a7e24.png)
+
 
 | Hostname  | IP Address  | Role on Network  |
 |---|---|---|
@@ -21,3 +24,4 @@ Kali Linux | Nmap | Dirb | Hydra | Password Cracking | msfvenom |  Metasploit | 
 | Kali  |  192.168.1.90 | Red Team Machine  |
 |  ELK | 192.168.1.110  |  SIEM System |
 | Capstone  | 192.168.1.105  |  Web Server (The Target) |
+ 
