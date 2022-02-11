@@ -25,3 +25,4 @@ Kali Linux | Nmap | Dirb | Hydra | Password Cracking | msfvenom |  Metasploit | 
 |  ELK | 192.168.1.110  |  SIEM System |
 | Capstone  | 192.168.1.105  |  Web Server (The Target) |
  
+To view the google slide presenting of finding click <a href="https://docs.google.com/presentation/d/1FBfwQIMEWX6FHghzteDLXYOJsdXD-_inA5RFAYa-iG0/edit#slide=id.g8798eb4c44_0_15">here</a> 
